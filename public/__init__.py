@@ -10,6 +10,7 @@ FAMILY_MIN_VERSION = {
     'Opera': 42,           # Async/await
     'Edge': 15,            # Async/await
     'Safari': 10.1,        # Async/await
+    'Vivaldi': 2,
 }
 
 
